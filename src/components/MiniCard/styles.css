@@ -1,0 +1,19 @@
+img {
+  width: 50px;
+}
+.divCard {
+  display: flex;
+}
+p {
+  margin: 2px;
+}
+.divCard_button {
+  width: 35px;
+  border-radius: 10px;
+}
+.divCard_button:hover {
+  width: 35px;
+  border-radius: 0px;
+  background-color: rgba(255, 0, 0, 0.705);
+  padding: 10px;
+}
